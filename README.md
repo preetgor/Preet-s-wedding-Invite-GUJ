@@ -1,4 +1,4 @@
-# Preet's Wedding Invitation — Gujarati (PDF_3)
+# Preet's Wedding Invitation — Gujarati
 
 A ready-to-publish static copy of the Gujarati invitation site.
 Just `index.html` + the `assets/` folder — no build step, no server needed.
